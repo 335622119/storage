@@ -21,4 +21,4 @@ storage storage://meta?dl=aHR0cHM6Ly9keGtpdGUuY24vbWV0YS9qZXRicmFpbnMtYWdlbnQtbG
 
 ## supported CDN node 
 
-- ali: alibaba CDN
+- ali: alibaba CDN **invalid**
