@@ -19,8 +19,11 @@ storage https://dxkite.cn/meta/jetbrains-agent-latest.zip.meta
 storage storage://meta?dl=aHR0cHM6Ly9keGtpdGUuY24vbWV0YS9qZXRicmFpbnMtYWdlbnQtbGF0ZXN0LnppcC5tZXRh
 ```
 
-## supported CDN node 
+## upload server name
 
-- ali: alibaba CDN **invalid**
-- cc:  
-- juejin: juejin
+- ali: alibaba **invalid**
+- cc:  **may need proxy**
+- juejin: juejin **supported**
+- 163: **error: not raw data**
+- toutiao: **supported**
+- vim-cn: **supported**
