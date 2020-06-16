@@ -22,7 +22,7 @@ storage storage://meta?dl=aHR0cHM6Ly9keGtpdGUuY24vbWV0YS9qZXRicmFpbnMtYWdlbnQtbG
 ## upload server name
 
 - ali: alibaba **invalid**
-- cc:  **may need proxy**
+- cc:  **need proxy**
 - juejin: juejin **supported**
 - 163: **error: not raw data**
 - toutiao: **supported**
