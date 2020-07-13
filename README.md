@@ -19,6 +19,10 @@ storage https://dxkite.cn/meta/jetbrains-agent-latest.zip.meta
 storage storage://meta?dl=aHR0cHM6Ly9keGtpdGUuY24vbWV0YS9qZXRicmFpbnMtYWdlbnQtbGF0ZXN0LnppcC5tZXRh
 ```
 
+## download
+
+- [Web Downloader](http://go-storage.dxkite.cn/)
+
 ## upload server name
 
 - ali: alibaba **invalid**
