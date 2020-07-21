@@ -19,15 +19,18 @@ storage https://dxkite.cn/meta/jetbrains-agent-latest.zip.meta
 storage storage://meta?dl=aHR0cHM6Ly9keGtpdGUuY24vbWV0YS9qZXRicmFpbnMtYWdlbnQtbGF0ZXN0LnppcC5tZXRh
 ```
 
-## download
+## web downloader
 
 - [Web Downloader](http://go-storage.dxkite.cn/)
-
+- Test Meta
+    - [jetbrains-agent-latest.zip](http://go-storage.dxkite.cn/meta/zip.meta)
+    - [01 诞生!救世主猪猪侠_高清.mp4](http://go-storage.dxkite.cn/meta/mp4.meta)
+    
 ## upload server name
 
 - ali: alibaba **invalid**
 - cc:  **need proxy**
 - juejin: juejin **supported**
 - 163: **error: not raw data**
-- toutiao: **supported**
-- vim-cn: **supported**
+- toutiao: **supported** **can web downloader**
+- vim-cn: **supported** **can web downloader**
