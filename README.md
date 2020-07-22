@@ -21,10 +21,10 @@ storage storage://meta?dl=aHR0cHM6Ly9keGtpdGUuY24vbWV0YS9qZXRicmFpbnMtYWdlbnQtbG
 
 ## web downloader
 
-- [Web Downloader](http://go-storage.dxkite.cn/)
+- [Web Downloader](http://storage.dxkite.cn/)
 - Test Meta
-    - [jetbrains-agent-latest.zip](http://go-storage.dxkite.cn/meta/zip.meta)
-    - [01 诞生!救世主猪猪侠_高清.mp4](http://go-storage.dxkite.cn/meta/mp4.meta)
+    - [jetbrains-agent-latest.zip](http://storage.dxkite.cn/meta/zip.meta)
+    - [01 诞生!救世主猪猪侠_高清.mp4](http://storage.dxkite.cn/meta/mp4.meta)
     
 ## upload server name
 
