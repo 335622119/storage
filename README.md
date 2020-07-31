@@ -34,3 +34,4 @@ storage storage://meta?dl=aHR0cHM6Ly9keGtpdGUuY24vbWV0YS9qZXRicmFpbnMtYWdlbnQtbG
 - 163: **error: not raw data**
 - toutiao: **supported** **can web downloader**
 - vim-cn: **supported** **can web downloader**
+- yuan-fang: **supported** **can web downloader**
