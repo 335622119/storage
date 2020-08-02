@@ -1,5 +1,7 @@
 # storage
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/dxkite/storage)](https://goreportcard.com/report/github.com/dxkite/storage)
+
 a tool use free CDN store file
 
 ## how it works
