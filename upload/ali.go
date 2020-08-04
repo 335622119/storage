@@ -55,8 +55,8 @@ func (*AliUploader) Upload(object *FileObject) (*Result, error) {
 	}
 
 	req, _ := http.NewRequest(http.MethodPost, url, &b)
-	req.Header.Set("Host", "kfupload.alibaba.com")
 	req.Header.Set("Content-Type", w.FormDataContentType())
+
 	res, er := Client.Do(req)
 	if er != nil {
 		return nil, er

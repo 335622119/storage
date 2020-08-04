@@ -22,7 +22,7 @@ type Result struct {
 	Raw []byte
 }
 
-var Default = OppoFeedback
+var Default = ALI
 
 var list = make(map[string]UploaderCreator)
 

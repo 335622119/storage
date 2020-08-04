@@ -66,7 +66,7 @@ func Test_parse(t *testing.T) {
 func uploadTest(t *testing.T, usn string) {
 	if data, err := ioutil.ReadFile("./test/1.png"); err == nil {
 		res, er := Upload(usn, &FileObject{
-			Name: "cdn.png",
+			Name: "cdn.jpg",
 			Data: data,
 		})
 		if er != nil {
